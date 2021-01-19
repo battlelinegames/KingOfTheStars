@@ -1,0 +1,32 @@
+{
+  "name": "king-of-the-stars",
+  "version": "0.1.0",
+  "description": "Open Source Shoot 'Em Up (shmup)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/battlelinegames/KingOfTheStars.git"
+  },
+  "keywords": [
+    "shmup",
+    "AssemblyScript",
+    "shooter",
+    "multi-player",
+    "WebAssembly",
+    "Wasm",
+    "JavaScript",
+    "WebGL"
+  ],
+  "author": "Rick Battagline <rick@battagline.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/battlelinegames/KingOfTheStars/issues"
+  },
+  "homepage": "https://github.com/battlelinegames/KingOfTheStars#readme",
+  "devDependencies": {
+    "assemblyscript": "^0.17.14"
+  }
+}

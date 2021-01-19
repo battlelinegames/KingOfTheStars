@@ -1,3 +1,7 @@
+# Rick's stuff to ignore
+notes.txt
+gitrun.sh
+
 # Logs
 logs
 *.log
